@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: 'Hi! I am Christine Hausen'
+description: I am great
+image: assets/images/hero.jpg
 author: null
 ---
 
