@@ -14,11 +14,12 @@
 
 	header {
 		&.major {
-			width: -moz-max-content;
-			width: -webkit-max-content;
-			width: -ms-max-content;
-			width: max-content;
-      max-width: 100%;
+			// width: -moz-max-content;
+			// width: -webkit-max-content;
+			// width: -ms-max-content;
+			// width: max-content;
+			width: 100%;
+      		// max-width: 100%;
 			margin-bottom: _size(element-margin);
 
 			> :first-child {
@@ -27,7 +28,7 @@
 
 				  &:after {
 					    content: '';
-					    background-color: _palette(fg-bold);
+					    background-color: _palette(highlight);
 					    display: block;
 					    height: 2px;
 					    margin: 0.325em 0 0.5em 0;
@@ -35,13 +36,21 @@
 				  }
 			}
 
+			> p, > h3 {
+				text-align: center;
+				width: 100%;
+			}
+
+
 			> p {
-				font-size: 0.7em;
-				font-weight: _font(weight-bold);
+				font-size: 1em;
+				font-weight: _font(weight);
 				letter-spacing: _font(letter-spacing-alt);
 				margin-bottom: 0;
-				text-transform: uppercase;
+				font-style: italic;
+				// text-transform: uppercase;
 			}
+
 
 			body.is-ie & {
 				> :first-child {

@@ -1,8 +1,8 @@
 # site settings
 title: Christine Hausen
-subtitle: Design Facilitator and Mentor
+subtitle: UX Designer & Social Thinker
 email: christinehausen@aol.com
-description: I love to work with people<br /> and creating solutions with them.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tinsehau.github.io" # the base hostname & protocol for your site
 author:
@@ -11,23 +11,20 @@ city: Berlin
 state: 
 zip_code: 13347
 country: Germany
-phone: (+49) xxx-xxxx
+phone: (+49) 15256129156
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 10
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
+flickr_url: https://www.flickr.com/photos/152382823@N04/albums
+instagram_url: https://www.instagram.com/tine_von_hohenschoen/
+linkedin_url: https://www.linkedin.com/in/christine-hausen-447288106/
+pinterest_url: https://www.pinterest.de/tinsehau/
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+
 
 # build settings
 markdown: kramdown
