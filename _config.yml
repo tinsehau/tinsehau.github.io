@@ -4,8 +4,8 @@ subtitle: UX Designer & Social Thinker
 email: test@test.de
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tinsehau.github.io" # the base hostname & protocol for your site
 author:
+url: "https://tinsehau.github.io" # the base hostname & protocol for your site
 street_address: Oudenarder Str. 1a
 city: Berlin
 state: 
@@ -23,7 +23,7 @@ flickr_url: https://www.flickr.com/photos/152382823@N04/albums
 instagram_url: https://www.instagram.com/tine_von_hohenschoen/
 linkedin_url: https://www.linkedin.com/in/christine-hausen-447288106/
 pinterest_url: https://www.pinterest.de/tinsehau/
-slack_url:
+slack_url: 
 
 
 # build settings
