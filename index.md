@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hello
+landing-title: Hello, I'm a UX Designer who is looking for a real social impact
 sub-title: About me
 description: null
 image:
