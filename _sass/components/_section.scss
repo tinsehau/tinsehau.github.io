@@ -14,12 +14,7 @@
 
 	header {
 		&.major {
-			// width: -moz-max-content;
-			// width: -webkit-max-content;
-			// width: -ms-max-content;
-			// width: max-content;
 			width: 100%;
-      		// max-width: 100%;
 			margin-bottom: _size(element-margin);
 
 			> :first-child {
@@ -28,9 +23,9 @@
 
 				  &:after {
 					    content: '';
-					    background-color: _palette(highlight);
+					    background-color: _palette(bg);
 					    display: block;
-					    height: 2px;
+							height: 2px;
 					    margin: 0.325em 0 0.5em 0;
 					    width: 100%;
 				  }
@@ -47,8 +42,6 @@
 				font-weight: _font(weight);
 				letter-spacing: _font(letter-spacing-alt);
 				margin-bottom: 0;
-				font-style: italic;
-				// text-transform: uppercase;
 			}
 
 
