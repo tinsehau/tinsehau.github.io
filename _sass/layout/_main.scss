@@ -9,14 +9,19 @@
 	#main {
 		background-color: _palette(bg-alt);
 
+		#two {
+			background: linear-gradient(to top, rgba(_palette(highlight-2), 0.2) 0%, _palette(bg) 100%);
+		}
+
 		> * {
-			border-top: solid 1px _palette(border);
+			border-bottom: solid 1px _palette(border);
 
 			&:first-child {
 				border-top: 0;
 			}
 
 			@include inner;
+
 		}
 
 		&.alt {
