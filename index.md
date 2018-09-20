@@ -9,7 +9,7 @@ author: null
 ---
 <div class="row">
     <div class="6u 12u$(small)">
-        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/me.jpg" alt="" /></span>
+        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/me.png" alt="" /></span>
     </div>
     <div class="6u 12u$(small)">
     <p>Enthusiastic about understanding the user’s perspective I particularly enjoy working on user research and co-creation workshops. Questions regarding communities and social practices, participation and engagement as well as sustainability are what make me go.</p>
