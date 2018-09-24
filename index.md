@@ -5,9 +5,10 @@ landing-title: Hello, I'm a User Experience Designer who is looking for a real s
 sub-title: About me
 description: null
 image:
+id: about-me
 author: null
 ---
-<div class="row">
+<div id="about-me" class="row">
     <div style="text-align: center;" class="6u 12u$(small)">
         <span class="image"><img src="{{ site.url | absolute_path}}/assets/images/me.png" alt="" /></span>
     </div>
