@@ -30,6 +30,6 @@ image: assets/images/beable/20120619_0600.JPG
         <p>The participants pursue their work with effort and care. Thus all pre-existing products at the bookbindery were of a very high quality. Nevertheless, there was a lot of developmental potential in terms of material, colour and shape. For three weeks the existing potential of the participants was explored through various workshops, encouraged and then applied in an individual design process. The goal was therefore to sensitize each participant to see colours and materials in relation to the form and use of the products and their consumers. There was the difficulty of finding a common middle ground between clearly defined shop production and experimental design process of the project. Participants should be able to continue their usual way of working without being torn out of their routine. At the same time, they should be empowered in their own ideas and encouraged to critically self-reflect in order to develop creative, novel objects.</p>
         <h4>Result</h4>
         <p>The result are 3 evolving handmade products of the participants. The developed designs are prepared to market within the label 'be able'.</p>
-        <p><a href="http://be-able.info/en/projects/handdenker/">www.be-able.info</a></p>
+        <p><a target="_blank" href="http://be-able.info/en/projects/handdenker/">www.be-able.info</a></p>
 
 

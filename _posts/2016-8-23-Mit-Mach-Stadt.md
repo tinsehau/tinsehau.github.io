@@ -28,7 +28,7 @@ image: assets/images/mitmachstadt/IMG_6536.jpg
       <p>It conducted a range of activities: on-site visits, participatory workshops with inhabitants, interventions in public space. Out of this we have developed key issues and a participatory infrastructure with new and existing communication tools.</p>
       <p>During the process several questions emerged: How can we encourage participation, facilitate exchange and create more transparent processes between municipalities and citizens? Which opportunities do citizens have to increase the livability of their city in a self-organizing way? How can we create a just and fulfilled coexistence? Which structures can be strengthened by the municipality and which role plays the digitalization therein?</p>
       <p>For more information please visit: <br />
-      <p><a href="http://mit-mach-stadt.de/">www.mit-mach-stadt.de</a></p>
-      <p><a href="http://www.design-research-lab.org/projects/mit-mach-handbuch/">www.design-research-lab.org</a></p>
+      <p><a target="_blank" href="http://mit-mach-stadt.de/">www.mit-mach-stadt.de</a></p>
+      <p><a target="_blank" href="http://www.design-research-lab.org/projects/mit-mach-handbuch/">www.design-research-lab.org</a></p>
 
 

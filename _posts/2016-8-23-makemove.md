@@ -29,7 +29,7 @@ image: assets/images/makemove/DSC_0004.JPG
             <p>Service Design tools and methods were used to understand the behaviour of the target group. Ideas were co-created in a two-days workshop using design games and creative techniques.</p>
             <h4>Result</h4>
             <p>Based on the insights the team developed a concept for real life interventions and set up a best practice website to guide teachers and school principals:</p>
-             <p><a href="http://makemove.sedes-research.de/">www.makemove.de</a></p>  
+             <p><a target="_blank" href="http://makemove.sedes-research.de/">www.makemove.de</a></p>  
      </div>
 
 
