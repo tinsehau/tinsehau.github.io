@@ -9,7 +9,7 @@
 	#contact {
 		//border-bottom: solid 1px _palette(border);
 		overflow-x: hidden;
-		background-color: rgba(_palette(highlight-2), 0.05);
+		background-color: rgba(_palette(highlight-2), 0.2);
 
 		> .inner {
 			@include vendor('display', 'flex');
@@ -21,7 +21,7 @@
 				width: 100%;
 
 				> * {
-					@include padding(3em, 0, (0, 0, 0, 3em));
+					// @include padding(3em, 0, (0, 0, 0, 3em));
 					position: relative;
 					flex-grow: 1;
 					width: calc(100% / 3);

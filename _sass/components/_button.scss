@@ -69,8 +69,16 @@
 		}
 
 		&.next {
-			padding-right: 4.5em;
 			position: relative;
+			// transition: box-shadow 0.1s;
+			// box-shadow: 0 0 0 2px _palette(fg-bold), 0 0 0 0 _palette(highlight-2);
+
+			// &:hover, &:active {
+			// 	box-shadow: 5px 5px 0 5px _palette(highlight), -5px -5px 0 5px _palette(highlight-2);
+			// }
+
+
+			/*
 
 			&:before {
 				transform: translate(0, 0)rotate(0deg);
@@ -94,6 +102,8 @@
 					transform: translate(5px, 0)rotate(90deg);
 				}
 			}
+
+			*/ 
 
 			@include breakpoint(large) {
 				padding-right: 5em;
