@@ -1,7 +1,7 @@
 ---
 layout: post
-title: the ability to understand
-description: a matter of the heart
+title: The ability to understand
+description: A matter of the heart
 image: assets/images/steffi/IMG_5561original_1.jpg
 ---
 **Project Lead:** Kunsthochschule Berlin - Weißensee<br />

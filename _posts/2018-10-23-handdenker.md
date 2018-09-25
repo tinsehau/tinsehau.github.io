@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wir sind Handdenker
-description: participative product design 
+description: Participative product design 
 image: assets/images/beable/20120619_0600.JPG
 ---
 
