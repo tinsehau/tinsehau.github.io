@@ -32,7 +32,7 @@ author: null
             its
             implementation.</p>
         <ul class="actions">
-            <li><a href="{{ site.url | absolute_path}}/assets/downloads/cv_christine_hausen_ux_designer.jpg" target="_blank"
+            <li><a href="{{ site.url | absolute_path}}/assets/downloads/cv_christine_hausen_ux_designer.pdf" target="_blank"
                     class="button small">show CV</a></li>
         </ul>
     </div>
