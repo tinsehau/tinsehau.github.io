@@ -13,9 +13,9 @@ author: null
         <span class="image"><img src="{{ site.url | absolute_path}}/assets/images/me.png" alt="" /></span>
     </div>
     <div class="6u 12u$(small)">
-        <p>Enthusiastic about understanding the user’s perspective I particularly enjoy working on user research and co-creation workshops. Questions regarding communities and social practices, participation, and engagement, as well as sustainability, are what makes me go.</p>
-        <p>I want a meaningful understanding of the social contexts and based on that design matched products and services. For that, I use methods like design thinking to discover participants' creative potentials based on their own expertise.</p>
-        <p>My approach contributes to led people to engage in the development process and experience new opportunities. The imparting of knowledge through co-creation and exchange of knowledge encourage people for innovation and its implementation.</p>
+        <p>Enthusiastic about understanding user perspectives I particularly enjoy working on research and co-creation workshops. Inquiry regarding communities and social practices, participation and engagement, as well as sustainability, are what drives me.</p>
+        <p>I want a meaningful understanding of social contexts as a means of creating products and services. To accomplish this, I use methods like design thinking to discover participants' creative potential based on their own expertise.</p>
+        <p>My approach contributes to leading people in engaging the development process and experience new opportunities. The imparting and exchange of knowledge through co-creation encourage people for innovation and implementation.</p>
         <ul class="actions">
             <li><a href="{{ site.url | absolute_path}}/assets/downloads/cv_christine_hausen_ux_designer.pdf" target="_blank"
                     class="button small">show CV</a></li>
