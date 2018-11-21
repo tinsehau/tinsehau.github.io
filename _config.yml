@@ -5,7 +5,7 @@ email: hallo@christinehausen.de
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 author:
-url: "https://tinsehau.github.io" # the base hostname & protocol for your site
+url: "https://christinehausen.de" # the base hostname & protocol for your site
 street_address: Oudenarder Str. 1a
 city: Berlin
 state: 
