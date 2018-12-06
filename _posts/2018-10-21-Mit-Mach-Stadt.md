@@ -23,10 +23,10 @@ image: assets/images/mitmachstadt/IMG_6536.jpg
 </div>  
         </div>
 	    <div class="6u 12u$(small)">
-      <p>The project addresses new forms of civic participation focussing on a social and digital connection. The goal was to co-design an inclusive, digital society.</p>
-      <p>Particularly it should strengthen the positive aspects of digitization and creating the conditions for more citizen participation. Citizens are experts in their local community. Their participation in their own community and state is a guarantee for a positive development.</p>
-      <p>It conducted a range of activities: on-site visits, participatory workshops with inhabitants, interventions in public space. Out of this, we have developed key issues and a participatory infrastructure with new and existing communication tools.</p>
-      <p>During the process, several questions emerged: How can we encourage participation, facilitate exchange and create more transparent processes between municipalities and citizens? Which opportunities do citizens have to increase the livability of their city in a self-organizing way? How can we create a just and fulfilled coexistence? Which structures can be strengthened by the municipality and which role plays the digitalization therein?</p>
+      <p>The project addresses new forms of civic participation focusing on social and digital connections. The goal was to co-design an inclusive, digital society.</p>
+      <p>Particularly it should strengthen the positive aspects of digitization and create the conditions for more citizen participation. Citizens are experts in their local community. Participation in their own community and region creates guarantees for positive developments.</p>
+      <p>We conducted a range of activities: on-site visits, participatory workshops with inhabitants and interventions in public spaces. This resulted in discussion of key issues and a participatory infrastructure with new and existing communication tools.</p>
+      <p>During the process, several questions emerged: How can we encourage participation, facilitate exchange and create more transparent processes between municipalities and citizens? What opportunities do citizens have to increase the livability of their city in a self-organizing way? How can we create a just and fulfilled coexistence? Which structures can be strengthened by the municipality and what role does digitization play therein?</p>
       <p>For more information please visit: <br />
       <p><a target="_blank" href="http://mit-mach-stadt.de/">www.mit-mach-stadt.de</a></p>
       <p><a target="_blank" href="http://www.design-research-lab.org/projects/mit-mach-handbuch/">www.design-research-lab.org</a></p>
