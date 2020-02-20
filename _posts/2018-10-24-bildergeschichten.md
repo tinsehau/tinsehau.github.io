@@ -10,12 +10,13 @@ image: assets/images/bildergeschichten/DSC9281.JPG
 **Responsible for:** research, preparation & implementation of co-creation workshops, design conception & execution <br />
 **Project type:** social inclusion
 
+![test image]({{ site.url | absolute_path}}/assets/images/bildergeschichten/ABLAUF2.gif)
+
 <div class="row">
     <div class="6u 12u$(small)">
          <div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/L1650965.jpg" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/L1660024.JPG" alt="" /></span></div>
-        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/praese.png" alt="" /></span>
         <div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/pic01.jpg" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/L1670026.JPG" alt="" /></span></div>
         <div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/bildergeschichten/DSC9246bearbeitet.jpg" alt="" /></span></div>

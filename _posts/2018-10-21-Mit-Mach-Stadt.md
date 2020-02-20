@@ -5,7 +5,7 @@ description: new formats for civic activism
 image: assets/images/mitmachstadt/IMG_6536.jpg
 ---
 
-**Project Lead:** Design Research Lab, Immovationskommune Sachsen<br />
+**Project Lead:** Design Research Lab, Innovationskommune Sachsen<br />
 **Client:** Stadt Brandis,  Sächsischen Staatsministerium des Innern (SMI)<br />
 **Responsible for:** Analysis and Evaluation, implementation of co-creation workshops, structuring and report during the research process, photograph during workshops,design and layout of presentations and workshop materials<br />
 **Project type:** Research project

@@ -11,10 +11,11 @@ image: assets/images/beable/20120619_0600.JPG
 **Responsible for:** preparation & implementation of co-creation workshops, design conception & execution <br />
 **Project type:** product development
 
+![test image]({{ site.url | absolute_path}}/assets/images/beable/20120619_0600kopie.jpg)
+
 <div class="row">
     <div class="6u 12u$(small)">
         <div class="row 50% uniform">
-        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/beable/20120619_0600.JPG" alt="" /></span>
 		<div class="4u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/beable/marion.JPG" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/beable/caro.JPG" alt="" /></span></div>
         <div class="4u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/beable/arthur.JPG" alt="" /></span></div>
