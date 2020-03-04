@@ -22,7 +22,6 @@
 // Font.
 	$font: (
 		family: ('IBM Plex Sans', sans-serif),
-		// family:				('Roboto', sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		600,
@@ -32,27 +31,21 @@
 
 // Palette.
 	$palette: (
-		bg:						#FDFDFC,
-		bg-alt:				#FDFDFC,
-		fg:						#457B9D,
-		fg-bold:			#1D3557,
-		fg-light:			#457B9D, 
-		highlight:		#00A9B2,
-		highlight-2:	#ffb800,
-		border:				rgba(#ffb800, 0.5),
-		border-bg:		#A8DADC,
-		tile: 				#595959,
-		accent1:			#EEF0F2,
-		accent2:			#EEF0F2,
-		accent3:			#EEF0F2,
-		accent4:			#EEF0F2,
-		accent5:			#EEF0F2,
-		accent6:			#EEF0F2
-	);
+		bg:                 #FDFDFC,
+        bg-alt:             #FDFDFC,
+        fg:                 #457B9D,
+        fg-bold:            #1D3557,
+        fg-light:           #457B9D, 
+        highlight:          #00A9B2,
+        highlight-2:        #ffb800,
+        border:             rgba(#ffb800, 0.5),
+        border-bg:          #A8DADC,
+        tile:               #595959,
+        accent1:            #EEF0F2,
+        accent2:            #EEF0F2,
+        accent3:            #EEF0F2,
+        accent4:            #EEF0F2,
+        accent5:            #EEF0F2,
+        accent6:            #EEF0F2
 
-		// accent1:			#6fc3df,
-		// accent2:			#8d82c4,
-		// accent3:			#ec8d81,
-		// accent4:			#e7b788,
-		// accent5:			#8ea9e8,
-		// accent6:			#87c5a4
+	);

@@ -15,11 +15,12 @@ image: assets/images/mitmachstadt/IMG_6536.jpg
 <div class="row">
     <div class="6u 12u$(small)">
          <div class="row 50% uniform">
-		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/IMG_5744_kl.jpg" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/beitrag_640x427.jpg" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/brandis1.jpg" alt="" /></span></div>
-		 <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/IMG_6536.jpg" alt="" /></span>
-     <div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/IMG_3802_b-300x176.jpg" alt="" /></span></div>
-		<div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/LieberMArktplatzEinwürfe-300x225.jpg" alt="" /></span></div>
+        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/1.jpg" alt="" /></span>
+        <div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/Bildschirmfoto-2019-04-16-um-15.21.21.png" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/IMG_6521.jpg" alt="" /></span></div>
+        <span class="image fit"><img src="{{ site.url | absolute_path}}/assets/images/mitmachstadt/Unbenannt-1.jpg" alt="" /></span>
 </div>  
         </div>
 	    <div class="6u 12u$(small)">
