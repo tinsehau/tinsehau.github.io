@@ -10,7 +10,7 @@ author: null
 ---
 <div id="about-me" class="row">
     <div style="text-align: center;" class="6u 12u$(small)">
-        <span class="image"><img src="{{ site.url | absolute_path}}/assets/images/me.png" alt="" /></span>
+        <span class="image"><img src="{{ site.url | absolute_path}}/assets/images/me-2.jpg" alt="" /></span>
     </div>
     <div class="6u 12u$(small)">
         <p>Enthusiastic about understanding user perspectives I particularly enjoy working on research and co-creation workshops. Inquiry regarding communities and social practices, participation and engagement, as well as sustainability, are what drives me.</p>

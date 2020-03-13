@@ -31,13 +31,13 @@
 
 // Palette.
 	$palette: (
-		bg:                 #FDFDFC,
-        bg-alt:             #FDFDFC,
-        fg:                 #457B9D,
-        fg-bold:            #1D3557,
-        fg-light:           #457B9D, 
-        highlight:          #00A9B2,
-        highlight-2:        #ffb800,
+		bg:                 #fff,
+        bg-alt:             #fff,
+        fg:                 #2b2b2b,
+        fg-bold:            #2b2b2b,
+        fg-light:           #31a0d6, 
+        highlight:          #31a0d6,
+		highlight-2:        #fff, // gradient color
         border:             rgba(#ffb800, 0.5),
         border-bg:          #A8DADC,
         tile:               #595959,

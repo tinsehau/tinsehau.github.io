@@ -42,7 +42,7 @@
     width: calc(60% - 10px);
     margin: 0px 5px 10px 5px;
 
-    border-radius: 2px;
+    // border-radius: 0.5em;
 
     .image {
       display: none;
@@ -173,6 +173,10 @@
 
   @include breakpoint(xsmall) {
     display: block;
+    margin: 10px 0 10px 0;
+
+    width: calc(100% - 10px) !important;
+
 
     article {
       height: 20em;
